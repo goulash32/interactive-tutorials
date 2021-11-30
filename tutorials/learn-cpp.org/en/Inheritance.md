@@ -80,7 +80,7 @@ Expected Output
     c1: (Point) x:100 y:200
     c2: x:15 y:30
     
-    c1: x (real): 100 100 y (imag): 200 100
+    c1: x (real): 100 100 y (imag): 200 200
     c2: x (real): 15 15 y (imag): 30 30
     
 Solution
